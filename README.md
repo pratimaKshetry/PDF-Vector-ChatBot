@@ -1,0 +1,1 @@
+This code can be used to develop an interactive PDF understanding tool that uses LLMs and vector db (FAISS) to summarize documents and answer questions grounded entirely in the original pdf uploaded by the end user. The app can be further improvised to add better UI..
